@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! My Name is Tom Staley
+
+I have a passion for all things relating to computers, programming especially. I have experience in a wide range of programming languages, including Python and CSS, and I have also taken several computer networking courses at Leamington College. In 2023, I took part in the Princes Trust Team Program, also at Leamington College, which helped me to improve my teambuilding and employability skills. 
+
+My dream job is, of course, game development. My interest in computers originated with my interest in games, and while I don't have as much time to play them anymore, I'm still fascinated by how they're made and how they work. In my free time I often consider what a game I'd make would look like, and how it would work. This has been the driving force behind my experience in computing and programming.
